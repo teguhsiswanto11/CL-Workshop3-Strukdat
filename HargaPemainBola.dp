@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\School\Codelabs\Pascal\Workshop_3\HargaPemainBola.dp
+Name=HargaPemainBola
+MainUnit=D:\School\Codelabs\Pascal\Workshop_3\lat_HargaPemainBola.pas
+UnitCount=1
+ResFiles=D:\School\Codelabs\Pascal\Workshop_3\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\School\Codelabs\Pascal\Workshop_3\lat_HargaPemainBola.pas
+FileTime=1301040577
